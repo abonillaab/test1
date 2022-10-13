@@ -14,7 +14,7 @@ def main():
 
     sortir=False
     while not sortir:
-        op = input('Entra una opció')
+        op = input('Entra una opció: ')
         if op=='d':
             posX = posX +1
         elif op=='a':
