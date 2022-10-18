@@ -10,7 +10,7 @@ El joc simula el moviment d'una nau, al premer a, s, d, w, se li sumarà 1 a una
 
 Per tal de poder executar el programa necesitaràs tenir insatl·lat el Python en el teu ordinador
 
-##Executar el joc
+## Executar el joc
 
 En la consola (cmd) de la mateixa carpeta has d'executar la seguent comanda
 
